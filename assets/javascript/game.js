@@ -1,0 +1,2 @@
+var possibleWords = ["shame", "dragon", "mountain", "daenerys", "lannister", "iron throne", "dothraki", "direwolf", "littlefinger", "longclaw", "baratheon", "targaryen", "wildling", "white walker", "hodor", "winterfell"];
+var
