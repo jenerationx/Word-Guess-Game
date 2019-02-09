@@ -1,10 +1,11 @@
 @font-face {
     font-family: GameOfThrones;
-    src: url(..images/GameOfThrones.ttf);
+    src: url(../images/GameofThrones.ttf);
   }
   
 * {
-    font-family: "GameofThrones";
+    font-family: "GameofThrones" !important;
+    letter-spacing: 2px;
 }
 html,
 body {
@@ -20,4 +21,11 @@ header {
 }
 img {
   display: none;
+}
+.col-md-6 {
+  border: ridge;
+  padding: 15px;
+}
+#current-word {
+  letter-spacing: 5px;
 }
